@@ -1,0 +1,133 @@
+{
+  "main": {
+    "id": "74742b1440dfa39f",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f89d2b5ef1e9965",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Dubbo/Dubbo笔记.md",
+            "mode": "source"
+          }
+        },
+        "group": "7c59108e291fb0f3"
+      },
+      {
+        "id": "7922b6925bd66adf",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Dubbo/Dubbo笔记.md",
+            "mode": "preview"
+          }
+        },
+        "group": "7c59108e291fb0f3"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5c0086c24ea1be1e",
+    "type": "split",
+    "children": [
+      {
+        "id": "582d8e3874dbfe01",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc5d07e30e0a37d9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4e291582f8a14dde",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c726f3139c0efc92",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 281
+  },
+  "right": {
+    "id": "6d4c57cbcd9bc7a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "c917a67fa73ef83e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09d8516b8578b967",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Dubbo/Dubbo笔记.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1e26574a2d93580b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Dubbo/Dubbo笔记.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "7922b6925bd66adf",
+  "lastOpenFiles": [
+    "Dubbo/Dubbo笔记.md",
+    "Git/Git笔记.md",
+    "Git/未命名.md",
+    "Docker/Docker笔记.md",
+    "Dubbo/未命名.md",
+    "电脑好用的工具/电脑装机必备好用软件.md",
+    "未命名.md",
+    "Docker/DockerResources/Pasted image 20210822171150.png",
+    "Resources/backiee-207131.jpg",
+    "backiee-207131.jpg"
+  ]
+}
