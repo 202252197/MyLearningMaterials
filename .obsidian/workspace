@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Dubbo/Dubbo笔记.md",
+            "file": "Docker/Docker笔.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Dubbo/Dubbo笔记.md",
+            "file": "Docker/Docker笔.md",
             "mode": "preview"
           }
         },
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dubbo/Dubbo笔记.md",
+                "file": "Docker/Docker笔.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dubbo/Dubbo笔记.md"
+                "file": "Docker/Docker笔.md"
               }
             }
           }
@@ -119,15 +119,15 @@
   },
   "active": "7922b6925bd66adf",
   "lastOpenFiles": [
-    "Dubbo/Dubbo笔记.md",
-    "Git/Git笔记.md",
-    "Git/未命名.md",
+    "Docker/Docker笔.md",
     "Docker/Docker笔记.md",
-    "Dubbo/未命名.md",
+    "鸟哥的Linux私房菜（第三版）/未命名.md",
+    "Git/Git笔记.md",
     "电脑好用的工具/电脑装机必备好用软件.md",
+    "Dubbo/Dubbo笔记.md",
+    "Git/未命名.md",
+    "Dubbo/未命名.md",
     "未命名.md",
-    "Docker/DockerResources/Pasted image 20210822171150.png",
-    "Resources/backiee-207131.jpg",
-    "backiee-207131.jpg"
+    "Docker/DockerResources/Pasted image 20210822171150.png"
   ]
 }
