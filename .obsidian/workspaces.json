@@ -1,0 +1,118 @@
+{
+  "workspaces": {
+    "写文档专用": {
+      "main": {
+        "id": "74742b1440dfa39f",
+        "type": "split",
+        "children": [
+          {
+            "id": "7922b6925bd66adf",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "870185033873cb25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "计算机科学导论（第三版）/计算机科学导论（第三版）.md",
+                "mode": "preview"
+              }
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "5c0086c24ea1be1e",
+        "type": "split",
+        "children": [
+          {
+            "id": "582d8e3874dbfe01",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "cc5d07e30e0a37d9",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "4e291582f8a14dde",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "c726f3139c0efc92",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 281
+      },
+      "right": {
+        "id": "6d4c57cbcd9bc7a2",
+        "type": "split",
+        "children": [
+          {
+            "id": "c917a67fa73ef83e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "09d8516b8578b967",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "1e26574a2d93580b",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "active": "7922b6925bd66adf"
+    }
+  },
+  "active": "写文档专用"
+}
