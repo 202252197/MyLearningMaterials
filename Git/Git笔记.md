@@ -148,8 +148,14 @@ Date:   Sat Sep 11 21:35:52 2021 +0800
 2.使用git checkout -- xxx同上操作一样
 ```
 两者的区别：
-1.git checkout – <file_name>是将暂存区的修改重新放回工作区，但只能操作文件内容，不能添加、删除文件；
+1.git checkout –- <file_name>是将暂存区的修改重新放回工作区，但只能操作文件内容，不能添加、删除文件；
 2.git restore --staged <file_name>相当于撤销git add 命令，git restore <file_name> 是放弃对工作区的修改，对文件的操作（添加、删除）和文件内容的操作都能使用此命令；
 ```
 **Git的暂存区回退到工作区**
-可以使用git restore --staged xxx将暂存区的文件回退到工作区，不会删除修改的文件内容
++ 可以使用git restore --staged xxx将暂存区的文件回退到工作区，不会删除修改的文件内容
++ 也可以使用git reset HEAD <file_name>将你暂存区的文件恢复到工作区
+### Git删除命令
+```
+git rm <file_name>可以删除不想要的文件
+
+```

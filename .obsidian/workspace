@@ -4,23 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "7922b6925bd66adf",
+        "id": "205de7ca48870b65",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "计算机科学导论（第三版）/计算机科学导论（第三版）.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "870185033873cb25",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "计算机科学导论（第三版）/计算机科学导论（第三版）.md",
+            "file": "电脑好用的工具/电脑装机必备好用软件.md",
             "mode": "preview"
           }
         }
@@ -54,7 +43,7 @@
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               }
             }
@@ -78,54 +67,53 @@
     "type": "split",
     "children": [
       {
-        "id": "c917a67fa73ef83e",
+        "id": "1e637027b9e44fae",
         "type": "tabs",
         "children": [
-          {
-            "id": "09d8516b8578b967",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "计算机科学导论（第三版）/计算机科学导论（第三版）.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
           {
             "id": "1e26574a2d93580b",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算机科学导论（第三版）/计算机科学导论（第三版）.md"
+                "file": "电脑好用的工具/电脑装机必备好用软件.md"
+              }
+            }
+          },
+          {
+            "id": "9aa231d1f5a55ce3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "电脑好用的工具/电脑装机必备好用软件.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "Git",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 348
   },
-  "active": "7922b6925bd66adf",
+  "active": "205de7ca48870b65",
   "lastOpenFiles": [
-    "计算机科学导论（第三版）/计算机科学导论（第三版）.md",
-    "计算机科学导论（第三版）/未命名.md",
-    "Git/Git笔记.md",
-    "Docker/Docker笔记.md",
-    "Dubbo/Dubbo笔记.md",
-    "Docker/Docker笔.md",
-    "鸟哥的Linux私房菜（第三版）/未命名.md",
     "电脑好用的工具/电脑装机必备好用软件.md",
-    "Git/未命名.md",
-    "Dubbo/未命名.md"
+    "Docker/Docker笔记.md",
+    "2022-06-13.md",
+    "面试题/个人简历.md",
+    "JUC/JUC笔记.md",
+    "Spring Cloud/Spring Cloud笔记.md",
+    "Git/Git笔记.md",
+    "智能室内设计/智能室内设计.md",
+    "Dubbo/Dubbo笔记.md",
+    "面试题/面试题整理.md"
   ]
 }

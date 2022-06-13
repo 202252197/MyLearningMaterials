@@ -1,10 +1,17 @@
 {
-  "attachmentFolderPath": "计算机科学导论（第三版）/Resource",
-  "promptDelete": true,
+  "attachmentFolderPath": "Git/GitResources",
+  "promptDelete": false,
   "showUnsupportedFiles": false,
   "spellcheck": true,
   "showLineNumber": false,
   "foldIndent": true,
   "foldHeading": true,
-  "fileSortOrder": "byCreatedTime"
+  "fileSortOrder": "byCreatedTime",
+  "trashOption": "local",
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
